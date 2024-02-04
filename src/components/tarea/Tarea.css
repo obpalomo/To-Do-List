@@ -1,0 +1,16 @@
+.tarea-hecha{
+    text-decoration: line-through;
+    color:green
+}
+
+.tarea-pendiente{
+    font-weight: bold;
+}
+
+.tarea-eliminada{
+    color:gray
+}
+
+.texto-eliminado{
+    color: red;
+}
